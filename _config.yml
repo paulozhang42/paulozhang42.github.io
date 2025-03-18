@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/cv_jianan_zhang.pdf
 github_link: https://github.com/paulozhang42/
 linkedin: https://www.linkedin.com/in/jianan-zhang-482331220/
 
@@ -28,7 +28,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
