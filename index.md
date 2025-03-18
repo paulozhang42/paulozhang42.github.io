@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm Jianan Zhang, master of quantitative economics @NUS FASS. I received Bachelor of Economics from Guanghua School of Management, Peking University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantitative Marketing:** Applying cutting-edge machine learning method using unique dataset to gain insight on multidimensional behavior pattern of platform users.
 
-## News
+## Anecdote
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- I'm jazz music lover and part-time keyboardist.
 
 {% include_relative _includes/publications.md %}
 
