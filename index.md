@@ -9,9 +9,9 @@ My current work focuses on quantitative marketing, leveraging advanced machine l
 
 ## Research Interests
 
-- **Substantial: ** Quantative Marketing, Pricing and Revenue Management.
+- **Substantial:** Quantative Marketing, Pricing and Revenue Management.
   
-- **Methodology: ** Machine Learning, Bayesian Statistics, Large Language Model, Causal Inference
+- **Methodology:** Machine Learning, Bayesian Statistics, Large Language Model, Causal Inference
 
 
 
