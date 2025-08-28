@@ -5,14 +5,18 @@ layout: homepage
 ## About Me
 
 I'm Jianan Zhang, master of quantitative economics @NUS FASS. I received Bachelor of Economics from Guanghua School of Management, Peking University.
+My current work focuses on quantitative marketing, leveraging advanced machine learning theory and unique datasets to uncover multidimensional consumer behavior patterns, particularly purchase responses to pricing strategies.
 
 ## Research Interests
 
-- **Quantitative Marketing:** Applying cutting-edge machine learning method using unique dataset to gain insight on multidimensional behavior pattern of platform users.
+- **Substantial: ** Quantative Marketing, Pricing and Revenue Management.
+  
+- **Methodology: ** Machine Learning, Bayesian Statistics, Large Language Model, Causal Inference
+
+
 
 ## Anecdote
-
-- I'm jazz music lover and part-time keyboardist.
+- I play piano and keyboard, influenced mostly by fusion jazz.
 
 {% include_relative _includes/publications.md %}
 
