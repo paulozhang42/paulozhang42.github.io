@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I'm Jianan Zhang, master of quantitative economics @NUS FASS. I received Bachelor of Economics from Guanghua School of Management, Peking University.
+
 My current work focuses on quantitative marketing, leveraging advanced machine learning theory and unique datasets to uncover multidimensional consumer behavior patterns, particularly purchase responses to pricing strategies.
 
 ## Research Interests
@@ -17,6 +18,7 @@ My current work focuses on quantitative marketing, leveraging advanced machine l
 
 ## Anecdote
 - I play piano and keyboard, influenced mostly by fusion jazz.
+- I cook from time to time. I can toss the wok!
 
 {% include_relative _includes/publications.md %}
 
